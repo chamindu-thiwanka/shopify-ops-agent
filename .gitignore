@@ -1,0 +1,20 @@
+# Virtual environment - never commit this (it's huge and machine-specific)
+venv/
+
+# Secret keys - NEVER commit this
+.env
+
+# Python cache files - auto-generated, not needed
+__pycache__/
+*.pyc
+*.pyo
+
+# Output files - optional, you might want to commit example outputs
+# out/
+
+# VS Code settings
+.vscode/
+
+# Windows junk
+Thumbs.db
+desktop.ini
