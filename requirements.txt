@@ -1,0 +1,6 @@
+pandas==2.2.2
+requests==2.32.3
+python-dotenv==1.0.1
+google-generativeai==0.7.2
+ShopifyAPI==12.6.0
+tenacity==8.3.0

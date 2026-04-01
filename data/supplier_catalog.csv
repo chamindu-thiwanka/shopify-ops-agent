@@ -1,0 +1,31 @@
+supplier_sku,name,category,cost_price,stock,weight_kg,length_cm,width_cm,height_cm,image_url,description,brand,shipping_cost,supplier_lead_days
+SKU001,Wireless Ergonomic Mouse,Electronics,12.50,45,0.15,12,8,4,https://picsum.photos/seed/sku001/400/400,Comfortable wireless mouse with 2.4GHz receiver and 18-month battery life,TechPro,3.50,3
+SKU002,USB-C Hub 7-in-1,Electronics,22.00,30,0.30,15,6,3,https://picsum.photos/seed/sku002/400/400,7-port hub with HDMI 4K output PD charging and USB 3.0 ports,ConnectPro,4.00,5
+SKU003,Mechanical Keyboard TKL,Electronics,45.00,20,0.85,36,13,4,https://picsum.photos/seed/sku003/400/400,Tenkeyless mechanical keyboard with blue switches and RGB backlight,KeyMaster,5.50,4
+SKU004,Laptop Stand Adjustable,Office,18.00,60,0.95,28,22,4,https://picsum.photos/seed/sku004/400/400,Aluminium laptop stand with 6 height levels and foldable design,DeskPro,4.00,3
+SKU005,Webcam 1080p HD,Electronics,28.00,25,0.22,9,9,9,https://picsum.photos/seed/sku005/400/400,Full HD webcam with built-in microphone and auto-focus,VisionTech,3.50,4
+SKU006,Blue Light Glasses,Health,8.00,80,0.04,16,6,5,https://picsum.photos/seed/sku006/400/400,Anti blue-light computer glasses with UV400 protection,ClearVision,2.50,3
+SKU007,Desk Organiser Bamboo,Office,14.00,35,0.60,25,15,12,https://picsum.photos/seed/sku007/400/400,Eco-friendly bamboo desk organiser with 5 compartments,NaturalDesk,4.50,5
+SKU008,Wireless Charger Pad 15W,Electronics,11.00,50,0.12,10,10,1,https://picsum.photos/seed/sku008/400/400,Fast wireless charging pad compatible with all Qi devices,ChargeTech,3.00,3
+SKU009,Noise Cancelling Earbuds,Electronics,38.00,18,0.06,6,4,4,https://picsum.photos/seed/sku009/400/400,Active noise cancelling earbuds with 30hr total battery life,SoundPro,3.50,5
+SKU010,Posture Corrector,Health,10.00,40,0.15,22,18,3,https://picsum.photos/seed/sku010/400/400,Adjustable posture corrector brace for upper back support,PostureFit,3.00,4
+SKU011,Cable Management Kit,Office,7.50,90,0.20,20,10,5,https://picsum.photos/seed/sku011/400/400,50-piece cable management kit with clips ties and sleeves,CablePro,2.50,3
+SKU012,Monitor Light Bar,Electronics,24.00,22,0.35,45,10,4,https://picsum.photos/seed/sku012/400/400,Screen-mounted LED light bar with touch control and USB power,LightDesk,4.00,5
+SKU013,Standing Desk Mat,Office,32.00,15,1.80,90,60,1,https://picsum.photos/seed/sku013/400/400,Anti-fatigue standing mat with bevelled edges and non-slip base,StandWell,6.00,6
+SKU014,Portable SSD 1TB,Electronics,55.00,12,0.05,9,5,1,https://picsum.photos/seed/sku014/400/400,USB 3.2 portable SSD with 1050MB/s read speed and rugged casing,SpeedDrive,3.50,4
+SKU015,Ring Light 10 inch,Photography,22.00,28,0.65,28,28,5,https://picsum.photos/seed/sku015/400/400,Dimmable LED ring light with phone holder and tripod stand,LumiPro,5.00,5
+SKU016,Desk Pad XL,Office,16.00,55,0.45,80,40,0.3,https://picsum.photos/seed/sku016/400/400,Extended desk pad with waterproof surface and non-slip rubber base,DeskPro,4.00,3
+SKU017,Smart Plug Wi-Fi,SmartHome,9.50,65,0.08,7,4,4,https://picsum.photos/seed/sku017/400/400,Wi-Fi smart plug compatible with Alexa and Google Home,SmartLife,2.50,4
+SKU018,Portable Blender 300ml,Kitchen,19.00,33,0.45,22,9,9,https://picsum.photos/seed/sku018/400/400,USB rechargeable personal blender with stainless steel blades,BlendGo,3.50,4
+SKU019,Sleep Mask 3D,Health,5.50,100,0.06,22,10,4,https://picsum.photos/seed/sku019/400/400,Contoured 3D sleep mask with adjustable strap and memory foam,DreamRest,2.00,3
+SKU020,Resistance Bands Set,Fitness,12.00,45,0.30,25,10,5,https://picsum.photos/seed/sku020/400/400,Set of 5 resistance bands with handles ankle straps and carry bag,FitPro,3.00,3
+SKU021,Water Bottle 1L Insulated,Kitchen,14.50,70,0.30,28,8,8,https://picsum.photos/seed/sku021/400/400,Double-wall vacuum insulated bottle keeps drinks cold 24hr hot 12hr,HydroLife,3.50,4
+SKU022,Foam Roller Massage,Fitness,11.00,40,0.50,33,15,15,https://picsum.photos/seed/sku022/400/400,High-density EVA foam roller for muscle recovery and deep tissue massage,RecoverPro,4.00,4
+SKU023,Phone Stand Adjustable,Office,6.50,85,0.12,12,8,8,https://picsum.photos/seed/sku023/400/400,Foldable aluminium phone stand with 270-degree adjustable viewing angle,DeskPro,2.50,3
+SKU024,Wireless Keyboard Slim,Electronics,28.00,22,0.45,43,14,2,https://picsum.photos/seed/sku024/400/400,Ultra-slim Bluetooth keyboard compatible with Windows Mac iOS Android,KeyMaster,4.00,4
+SKU025,LED Desk Lamp,Office,21.00,30,0.55,38,12,12,https://picsum.photos/seed/sku025/400/400,5-colour temperature LED desk lamp with USB charging port and memory function,LightDesk,4.50,5
+SKU026,Yoga Mat Non-slip,Fitness,18.00,25,1.10,183,61,0.6,https://picsum.photos/seed/sku026/400/400,6mm thick TPE yoga mat with alignment lines and carrying strap,YogaLife,5.50,5
+SKU027,Electric Spin Scrubber,Kitchen,26.00,14,0.90,32,8,8,https://picsum.photos/seed/sku027/400/400,Cordless electric spin scrubber with 4 brush heads and extendable handle,CleanPro,5.00,6
+SKU028,Document Scanner Portable,Electronics,48.00,10,0.32,28,6,3,https://picsum.photos/seed/sku028/400/400,Portable wand scanner with 900DPI resolution and micro SD card slot,ScanTech,4.50,5
+SKU029,Air Purifier Mini,Health,35.00,16,0.80,18,18,22,https://picsum.photos/seed/sku029/400/400,Personal HEPA air purifier with 3-stage filtration and night mode,PureAir,5.00,6
+SKU030,Mechanical Pencil Set,Office,4.50,7,0.10,19,3,3,https://picsum.photos/seed/sku030/400/400,Set of 4 professional mechanical pencils with HB lead refills,DrawPro,2.00,3
