@@ -1,0 +1,11 @@
+supplier_sku,name,cost_price,shipping_cost,sell_price_au,sell_price_world,margin_pct_au,lead_days
+SKU014,Portable SSD 1TB,55.0,3.5,95.0,82.0,25.21,4
+SKU003,Mechanical Keyboard TKL,45.0,5.5,82.0,70.5,25.15,4
+SKU028,Document Scanner Portable,48.0,4.5,85.5,73.5,25.35,5
+SKU009,Noise Cancelling Earbuds,38.0,3.5,67.5,58.0,25.17,5
+SKU019,Sleep Mask 3D,5.5,2.0,13.0,11.0,27.1,3
+SKU011,Cable Management Kit,7.5,2.5,17.0,14.5,26.51,3
+SKU029,Air Purifier Mini,35.0,5.0,65.0,56.0,25.1,6
+SKU004,Laptop Stand Adjustable,18.0,4.0,36.0,31.0,25.16,3
+SKU021,Water Bottle 1L Insulated,14.5,3.5,29.5,25.5,25.07,4
+SKU013,Standing Desk Mat,32.0,6.0,62.0,53.5,25.33,6

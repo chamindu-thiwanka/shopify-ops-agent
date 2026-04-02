@@ -1,0 +1,252 @@
+[
+  {
+    "supplier_sku": "SKU014",
+    "title": "Portable SSD 1TB - SpeedDrive",
+    "bullets": [
+      "Fast 1050MB/s read",
+      "Rugged casing for durability",
+      "Portable on-the-go storage",
+      "Reliable performance for everyday use",
+      "Durable build for long-term use"
+    ],
+    "description": "Experience lightning-fast performance with our 1TB USB 3.2 SSD. Designed for professionals and enthusiasts, it delivers 1050MB/s read speed and seamless data transfer. The rugged casing ensures durability in any environment. Whether you're transferring large files or storing critical data, this portable SSD offers reliable performance. Its compact design makes it easy to carry everywhere. Perfect for work, travel, or personal use.",
+    "tags": [
+      "electronics",
+      "portable",
+      "ssd",
+      "rugged",
+      "durability",
+      "speed",
+      "reliability",
+      "durable"
+    ],
+    "seo_title": "Portable SSD 1TB - SpeedDrive",
+    "seo_description": "Fast 1050MB/s read, rugged casing, portable, reliable, durable.",
+    "_fallback": false
+  },
+  {
+    "supplier_sku": "SKU003",
+    "title": "Mechanical Keyboard TKL - KeyMaster",
+    "bullets": [
+      "Effortless Design",
+      "Precision Switches",
+      "RGB Backlight",
+      "Stylish Aesthetic",
+      "Reliable Performance"
+    ],
+    "description": "Experience the ultimate in gaming and productivity with our Tenkeyless mechanical keyboard. Blue switches, RGB backlight, and a sleek design for professionals and gamers. Crafted with precision and durability, perfect for your workspace. Seamless integration with your workflow, designed for efficiency and style.",
+    "tags": [
+      "mechanical keyboard",
+      "tenkeyless",
+      "blue switches",
+      "rgb backlight",
+      "keymaster",
+      "electronic accessories",
+      "gaming keyboard",
+      "desktop keyboard"
+    ],
+    "seo_title": "Mechanical Keyboard TKL - KeyMaster",
+    "seo_description": "Experience the ultimate in gaming and productivity with our Tenkeyless mechanical keyboard. Blue switches, RGB backlight, and a sleek design for professionals and gamers. Crafted with precision and durability, perfect for your workspace.",
+    "_fallback": false
+  },
+  {
+    "supplier_sku": "SKU028",
+    "title": "Document Scanner Portable - ScanTech",
+    "bullets": [
+      "Portable 900DPI Scanner",
+      "Micro SD Slot for Storage",
+      "Ergonomic Design for Comfort",
+      "Fast Scan Speed for Efficiency",
+      "All-in-One Document Solution"
+    ],
+    "description": "Effortlessly scan documents on the go with this compact scanner. 900DPI resolution ensures clear images, and the micro SD slot allows easy storage. The ergonomic design makes it comfortable to use. Perfect for professionals and students alike. Affordable quality without compromising on performance.",
+    "tags": [
+      "document scanner",
+      "portable scanner",
+      "900dpi",
+      "micro sd slot",
+      "ergonomic design",
+      "scan tech",
+      "portable scanner",
+      "high resolution"
+    ],
+    "seo_title": "Document Scanner Portable - ScanTech",
+    "seo_description": "Ergonomic portable scanner with 900DPI resolution and micro SD slot for efficient document scanning.",
+    "_fallback": false
+  },
+  {
+    "supplier_sku": "SKU009",
+    "title": "Noise Cancelling Earbuds - SoundPro",
+    "bullets": [
+      "High-Quality Sound",
+      "Long Battery Life",
+      "Noise Cancelling",
+      "Comfortable Design",
+      "Fast Charging"
+    ],
+    "description": "Experience seamless audio with SoundPro Noise Cancelling Earbuds. 30hr total battery life for uninterrupted use. Active noise cancellation keeps distractions at bay. Lightweight design fits comfortably in your ears. Fast charging delivers quick power back. ",
+    "tags": [
+      "Noise Cancelling Earbuds",
+      "SoundPro",
+      "Bluetooth",
+      "Battery Life",
+      "Comfortable",
+      "Active Noise Cancellation",
+      "Wireless",
+      "Long Lasting"
+    ],
+    "seo_title": "Noise Cancelling Earbuds - SoundPro",
+    "seo_description": "Experience ultimate sound with SoundPro Noise Cancelling Earbuds - 30hr battery life, active noise cancellation, comfortable design.",
+    "_fallback": false
+  },
+  {
+    "supplier_sku": "SKU019",
+    "title": "Sleep Mask 3D - Contoured 3D Sleep Mask",
+    "bullets": [
+      "Contoured 3D Sleep Mask",
+      "Adjustable Strap for Perfect Fit",
+      "Memory Foam for Comfortable Sleep",
+      "Restful Sleep with Advanced Design",
+      "Health & Wellness for Better Sleep"
+    ],
+    "description": "This contoured 3D sleep mask offers a snug fit with adjustable straps. Made with memory foam, it provides comfort and support for all sleep positions. Designed for restful sleep, it reduces eye strain and enhances your nighttime relaxation. Ideal for anyone seeking a premium sleep experience.",
+    "tags": [
+      "Sleep Mask 3D",
+      "Contoured Sleep Mask",
+      "Adjustable Strap",
+      "Memory Foam",
+      "Restful Sleep",
+      "Health & Wellness",
+      "Sleep Aid",
+      "Sleep Mask Reviews"
+    ],
+    "seo_title": "Sleep Mask 3D - Contoured 3D Sleep Mask",
+    "seo_description": "Contoured 3D sleep mask with adjustable strap and memory foam for restful sleep. Premium sleep aid designed for comfort and relaxation.",
+    "_fallback": false
+  },
+  {
+    "supplier_sku": "SKU011",
+    "title": "Cable Management Kit - 50-Piece Cable Organizer Set",
+    "bullets": [
+      "Effortless Organization",
+      "Durable Materials",
+      "Versatile Design",
+      "Quick Setup",
+      "Perfect for Any Workspace"
+    ],
+    "description": "Optimize your workspace with our 50-piece cable management kit. Includes clips, ties, and sleeves for easy organization. Perfect for offices, homes, or travel. Build a tidy, functional setup today.",
+    "tags": [
+      "Office Supplies",
+      "Cable Management",
+      "Organizational Tools",
+      "Eco-Friendly",
+      "Durable Products",
+      "Space-Saving",
+      "Workplace Essentials",
+      "Multi-Function"
+    ],
+    "seo_title": "Cable Management Kit - 50-Piece Cable Organizer Set",
+    "seo_description": "Effortless organization with our 50-piece cable management kit. Durable, versatile, and perfect for any workspace.",
+    "_fallback": false
+  },
+  {
+    "supplier_sku": "SKU029",
+    "title": "Air Purifier Mini - PureAir Health",
+    "bullets": [
+      "3-Stage Filtration",
+      "Night Mode",
+      "Personal Use",
+      "Quiet Operation",
+      "Durable Design"
+    ],
+    "description": "Effortless air purification with 3-stage filtration and night mode for personal use. Clean indoor air with quiet operation and durable design. Ideal for small spaces and allergen control.",
+    "tags": [
+      "Air Purifier",
+      "Health Care",
+      "Home Air Purifiers",
+      "Noise Reduction",
+      "Allergen Control",
+      "Smart Features",
+      "Energy Efficient",
+      "Portable"
+    ],
+    "seo_title": "Air Purifier Mini - PureAir Health",
+    "seo_description": "Effortless air purification with 3-Stage Filtration and Night Mode for personal use. Clean indoor air with quiet operation and durable design. Ideal for small spaces and allergen control.",
+    "_fallback": false
+  },
+  {
+    "supplier_sku": "SKU004",
+    "title": "Adjustable Laptop Stand DeskPro",
+    "bullets": [
+      "Adjustable Laptop Stand",
+      "6 Height Levels",
+      "Foldable Design",
+      "Office Use",
+      "Travel-Friendly"
+    ],
+    "description": "This adjustable laptop stand offers 6 height levels for different needs, plus a foldable design for portability. Perfect for office use, travel, or home setups. Reliable and durable, it's built to last. Whether you're working from a desk or on the go, this stand keeps your laptop secure and stable.",
+    "tags": [
+      "laptop stand",
+      "adjustable",
+      "office desk",
+      "foldable",
+      "travel-friendly",
+      "deskpro",
+      "6 height levels",
+      "office use"
+    ],
+    "seo_title": "Adjustable Laptop Stand DeskPro",
+    "seo_description": "Adjustable laptop stand with 6 height levels and foldable design. Office use, travel, home setups. Reliable and durable.",
+    "_fallback": false
+  },
+  {
+    "supplier_sku": "SKU021",
+    "title": "Water Bottle 1L Insulated - HydroLife",
+    "bullets": [
+      "Double-Wall Vacuum Insulated Bottle - Keeps Drinks Cold 24hr",
+      "1L Capacity - Perfect for Travel & Daily Use",
+      "Heat Resistant & Durable - Built for Longevity",
+      "12hr Hot Holding - Keeps Beverages Warm",
+      "HydroLife Brand - Trusted Quality"
+    ],
+    "description": "Our 1L insulated bottle keeps drinks cold for 24 hours and hot for 12 hours. Made with double-wall vacuum insulation, it stays cool in the fridge and warm in the car. Durable and lightweight, it's ideal for travel and daily use. 100% warranty for quality and performance. Choose HydroLife for reliable, long-lasting hydration.",
+    "tags": [
+      "water bottle",
+      "insulated",
+      "1L",
+      "hydrolife",
+      "cold keep",
+      "heat resistant",
+      "durable",
+      "travel"
+    ],
+    "seo_title": "Water Bottle 1L Insulated - HydroLife",
+    "seo_description": "1L insulated water bottle keeps drinks cold 24hr and hot 12hr. Double-wall vacuum insulation, durable, ideal for travel. HydroLife brand, 100% warranty.",
+    "_fallback": false
+  },
+  {
+    "supplier_sku": "SKU013",
+    "title": "Standing Desk Mat - Anti-Fatigue Non-Slip Base",
+    "bullets": [
+      "**Anti-Fatigue** Bevelled Edges for Comfortable Standing",
+      "**Non-Slip** Base Ensures Stability on Any Surface",
+      "**Easy Installation** for Quick Setup",
+      "**Durable Material** for Long-Lasting Performance",
+      "**Warranty** for Peace of Mind"
+    ],
+    "description": "Elevate your workspace with this ergonomic standing desk mat. Crafted with anti-fatigue technology, it offers seamless comfort for long hours. The non-slip base ensures stability, while the bevelled edges prevent tripping. Perfect for office use, this mat is designed to support your health and productivity. Choose the right mat for your desk and boost your workspace efficiency. ",
+    "tags": [
+      "standing desk mat",
+      "anti-fatigue",
+      "non-slip",
+      "office furniture",
+      "desk mat",
+      "ergonomic",
+      "durable",
+      "easy install"
+    ],
+    "seo_title": "Standing Desk Mat - Anti-Fatigue Non-Slip Base",
+    "seo_description": "Elevate your workspace with this ergonomic standing desk mat. Crafted with anti-fatigue technology, it offers seamless comfort for long hours. The non-slip base ensures stability, while the bevelled edges prevent tripping. Perfect for office use, this mat is designed to support your health and productivity.",
+    "_fallback": false
+  }
+]

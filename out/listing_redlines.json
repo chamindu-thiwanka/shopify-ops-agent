@@ -1,0 +1,72 @@
+[
+  {
+    "sku": "SKU014",
+    "issues": [
+      "QA parse failed — manual review needed"
+    ],
+    "severity": "minor",
+    "suggested_fix": "Re-run QA agent"
+  },
+  {
+    "sku": "SKU003",
+    "issues": [
+      "QA parse failed — manual review needed"
+    ],
+    "severity": "minor",
+    "suggested_fix": "Re-run QA agent"
+  },
+  {
+    "sku": "SKU028",
+    "issues": [],
+    "severity": "ok",
+    "suggested_fix": "none"
+  },
+  {
+    "sku": "SKU009",
+    "issues": [],
+    "severity": "ok",
+    "suggested_fix": "none"
+  },
+  {
+    "sku": "SKU019",
+    "issues": [
+      "Health claims without evidence: The product claims to 'reduce eye strain' and 'enhance your nighttime relaxation' without providing evidence or medical validation."
+    ],
+    "severity": "minor",
+    "suggested_fix": "Add evidence or clarification for health-related claims, e.g., 'Clinical studies show...' or 'Certified for eye strain reduction.'"
+  },
+  {
+    "sku": "SKU011",
+    "issues": [],
+    "severity": "ok",
+    "suggested_fix": "none"
+  },
+  {
+    "sku": "SKU029",
+    "issues": [],
+    "severity": "ok",
+    "suggested_fix": "none"
+  },
+  {
+    "sku": "SKU004",
+    "issues": [],
+    "severity": "ok",
+    "suggested_fix": "none"
+  },
+  {
+    "sku": "SKU021",
+    "issues": [
+      "False or exaggerated specifications: Claims of 'keeps drinks cold for 24 hours' and '12hr hot holding' lack verifiable evidence and may be overpromised"
+    ],
+    "severity": "minor",
+    "suggested_fix": "Provide third-party testing results or customer reviews to substantiate the 24hr cold and 12hr hot holding claims"
+  },
+  {
+    "sku": "SKU013",
+    "issues": [
+      "QA parse failed — manual review needed"
+    ],
+    "severity": "minor",
+    "suggested_fix": "Re-run QA agent"
+  }
+]

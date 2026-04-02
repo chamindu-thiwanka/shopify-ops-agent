@@ -1,0 +1,11 @@
+supplier_sku,name,available_stock,reorder_threshold,needs_reorder,days_of_supply
+SKU014,Portable SSD 1TB,12,15,True,12
+SKU003,Mechanical Keyboard TKL,20,15,False,20
+SKU028,Document Scanner Portable,10,15,True,10
+SKU009,Noise Cancelling Earbuds,18,15,False,18
+SKU019,Sleep Mask 3D,100,15,False,100
+SKU011,Cable Management Kit,90,15,False,90
+SKU029,Air Purifier Mini,16,15,False,16
+SKU004,Laptop Stand Adjustable,60,15,False,60
+SKU021,Water Bottle 1L Insulated,70,15,False,70
+SKU013,Standing Desk Mat,15,15,False,15

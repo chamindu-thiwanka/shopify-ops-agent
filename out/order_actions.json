@@ -1,0 +1,92 @@
+[
+  {
+    "order_id": "ORD001",
+    "sku": "SKU001",
+    "quantity": 2,
+    "customer_country": "AU",
+    "action": "substitute",
+    "note": "SKU not in active listings. Substitute: SKU003",
+    "customer_email": "Dear Customer,\n\nRegarding your order ORD001: unfortunately item SKU001 is currently unavailable. We'd like to offer you Mechanical Keyboard TKL (SKU003) as an equivalent alternative at the same price point.\n\nPlease reply to confirm or cancel. No charge until you confirm.\n\nBest regards,\nOps Team"
+  },
+  {
+    "order_id": "ORD002",
+    "sku": "SKU003",
+    "quantity": 1,
+    "customer_country": "US",
+    "action": "fulfil",
+    "note": "Stock OK (20 available, 1 ordered).",
+    "customer_email": "Dear Customer,\n\nGreat news! Your order ORD002 for item SKU003 has been confirmed and is being processed. You can expect delivery within 3-7 business days.\n\nThank you for shopping with us!\n\nBest regards,\nOps Team"
+  },
+  {
+    "order_id": "ORD003",
+    "sku": "SKU009",
+    "quantity": 1,
+    "customer_country": "AU",
+    "action": "fulfil",
+    "note": "Stock OK (18 available, 1 ordered).",
+    "customer_email": "Dear Customer,\n\nGreat news! Your order ORD003 for item SKU009 has been confirmed and is being processed. You can expect delivery within 3-7 business days.\n\nThank you for shopping with us!\n\nBest regards,\nOps Team"
+  },
+  {
+    "order_id": "ORD004",
+    "sku": "SKU014",
+    "quantity": 3,
+    "customer_country": "AU",
+    "action": "fulfil",
+    "note": "Stock OK (12 available, 3 ordered).",
+    "customer_email": "Dear Customer,\n\nGreat news! Your order ORD004 for item SKU014 has been confirmed and is being processed. You can expect delivery within 3-7 business days.\n\nThank you for shopping with us!\n\nBest regards,\nOps Team"
+  },
+  {
+    "order_id": "ORD005",
+    "sku": "SKU030",
+    "quantity": 1,
+    "customer_country": "AU",
+    "action": "substitute",
+    "note": "SKU not in active listings. Substitute: SKU011",
+    "customer_email": "Dear Customer,\n\nRegarding your order ORD005: unfortunately item SKU030 is currently unavailable. We'd like to offer you Cable Management Kit (SKU011) as an equivalent alternative at the same price point.\n\nPlease reply to confirm or cancel. No charge until you confirm.\n\nBest regards,\nOps Team"
+  },
+  {
+    "order_id": "ORD006",
+    "sku": "SKU099",
+    "quantity": 1,
+    "customer_country": "AU",
+    "action": "substitute",
+    "note": "SKU not in active listings. Substitute: SKU014",
+    "customer_email": "Dear Customer,\n\nRegarding your order ORD006: unfortunately item SKU099 is currently unavailable. We'd like to offer you Portable SSD 1TB (SKU014) as an equivalent alternative at the same price point.\n\nPlease reply to confirm or cancel. No charge until you confirm.\n\nBest regards,\nOps Team"
+  },
+  {
+    "order_id": "ORD007",
+    "sku": "SKU005",
+    "quantity": 2,
+    "customer_country": "GB",
+    "action": "substitute",
+    "note": "SKU not in active listings. Substitute: SKU003",
+    "customer_email": "Dear Customer,\n\nRegarding your order ORD007: unfortunately item SKU005 is currently unavailable. We'd like to offer you Mechanical Keyboard TKL (SKU003) as an equivalent alternative at the same price point.\n\nPlease reply to confirm or cancel. No charge until you confirm.\n\nBest regards,\nOps Team"
+  },
+  {
+    "order_id": "ORD008",
+    "sku": "SKU021",
+    "quantity": 1,
+    "customer_country": "AU",
+    "action": "fulfil",
+    "note": "Stock OK (70 available, 1 ordered).",
+    "customer_email": "Dear Customer,\n\nGreat news! Your order ORD008 for item SKU021 has been confirmed and is being processed. You can expect delivery within 3-7 business days.\n\nThank you for shopping with us!\n\nBest regards,\nOps Team"
+  },
+  {
+    "order_id": "ORD009",
+    "sku": "SKU002",
+    "quantity": 1,
+    "customer_country": "US",
+    "action": "substitute",
+    "note": "SKU not in active listings. Substitute: SKU003",
+    "customer_email": "Dear Customer,\n\nRegarding your order ORD009: unfortunately item SKU002 is currently unavailable. We'd like to offer you Mechanical Keyboard TKL (SKU003) as an equivalent alternative at the same price point.\n\nPlease reply to confirm or cancel. No charge until you confirm.\n\nBest regards,\nOps Team"
+  },
+  {
+    "order_id": "ORD010",
+    "sku": "SKU028",
+    "quantity": 5,
+    "customer_country": "AU",
+    "action": "fulfil",
+    "note": "Stock OK (10 available, 5 ordered).",
+    "customer_email": "Dear Customer,\n\nGreat news! Your order ORD010 for item SKU028 has been confirmed and is being processed. You can expect delivery within 3-7 business days.\n\nThank you for shopping with us!\n\nBest regards,\nOps Team"
+  }
+]

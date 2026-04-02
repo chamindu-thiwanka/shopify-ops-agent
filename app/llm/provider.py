@@ -64,33 +64,53 @@ class LLMProvider(ABC):
         raw = self.complete(prompt, system)
         return self._parse_json_safely(raw)
 
-    def _parse_json_safely(self, raw: str) -> dict:
-        """
-        Strip markdown fences and parse JSON. Return empty dict on failure.
+    # def _parse_json_safely(self, raw: str) -> dict:
+    #     """
+    #     Strip markdown fences and parse JSON. Return empty dict on failure.
         
-        WHY SAFE PARSING:
-          If an LLM returns bad JSON and we call json.loads() directly,
-          the entire pipeline crashes. With safe parsing, we log the error
-          and return an empty dict. The agent gets a fallback, the pipeline
-          continues, and the report notes the failure. Resilience > perfection.
-        """
+    #     WHY SAFE PARSING:
+    #       If an LLM returns bad JSON and we call json.loads() directly,
+    #       the entire pipeline crashes. With safe parsing, we log the error
+    #       and return an empty dict. The agent gets a fallback, the pipeline
+    #       continues, and the report notes the failure. Resilience > perfection.
+    #     """
+    #     import re
+    #     # Remove ```json ... ``` or ``` ... ``` wrappers
+    #     cleaned = re.sub(r'```(?:json)?\s*', '', raw)
+    #     cleaned = re.sub(r'```\s*', '', cleaned).strip()
+        
+    #     try:
+    #         return json.loads(cleaned)
+    #     except json.JSONDecodeError:
+    #         # Try to find JSON within the text (LLMs sometimes add preamble)
+    #         match = re.search(r'\{.*\}|\[.*\]', cleaned, re.DOTALL)
+    #         if match:
+    #             try:
+    #                 return json.loads(match.group())
+    #             except json.JSONDecodeError:
+    #                 pass
+            
+    #         print(f"  [WARNING] Could not parse LLM JSON response. Raw: {raw[:200]}")
+    #         return {}
+
+    def _parse_json_safely(self, raw: str) -> dict:
         import re
+        # Strip Qwen3 thinking blocks: <think>...</think>
+        cleaned = re.sub(r'<think>.*?</think>', '', raw, flags=re.DOTALL).strip()
         # Remove ```json ... ``` or ``` ... ``` wrappers
-        cleaned = re.sub(r'```(?:json)?\s*', '', raw)
+        cleaned = re.sub(r'```(?:json)?\s*', '', cleaned)
         cleaned = re.sub(r'```\s*', '', cleaned).strip()
         
         try:
             return json.loads(cleaned)
         except json.JSONDecodeError:
-            # Try to find JSON within the text (LLMs sometimes add preamble)
             match = re.search(r'\{.*\}|\[.*\]', cleaned, re.DOTALL)
             if match:
                 try:
                     return json.loads(match.group())
                 except json.JSONDecodeError:
                     pass
-            
-            print(f"  [WARNING] Could not parse LLM JSON response. Raw: {raw[:200]}")
+            print(f"  [WARNING] Could not parse LLM JSON. Raw: {raw[:200]}")
             return {}
 
 
@@ -182,6 +202,7 @@ def get_provider(name: str) -> LLMProvider:
     providers = {
         "ollama_llama3":  lambda: OllamaProvider("llama3"),
         "ollama_mistral": lambda: OllamaProvider("mistral"),
+        "ollama_qwen3":    lambda: OllamaProvider("qwen3:1.7b"),
         "gemini":         lambda: GeminiProvider(),
     }
     if name not in providers:

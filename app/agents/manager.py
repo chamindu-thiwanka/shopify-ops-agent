@@ -42,8 +42,8 @@ def run(catalog_path: str, orders_path: str, out_dir: str):
     # QA needs critical analysis (mistral handles this well). This satisfies the
     # multi-LLM requirement and is genuinely good architecture.
     print("\n[Setup] Initialising LLM providers...")
-    listing_llm = get_provider("ollama_llama3")
-    qa_llm = get_provider("ollama_mistral")
+    listing_llm = get_provider("ollama_qwen3")
+    qa_llm = get_provider("ollama_qwen3")
 
     # STEP 1 — Product Sourcing
     print("\n[Step 1/6] Product Sourcing Agent")
