@@ -2,49 +2,63 @@
   {
     "sku": "SKU014",
     "issues": [
-      "QA parse failed — manual review needed"
+      "Secure - encrypted data protection"
     ],
-    "severity": "minor",
-    "suggested_fix": "Re-run QA agent"
+    "severity": "major",
+    "suggested_fix": "none"
   },
   {
     "sku": "SKU003",
     "issues": [
-      "QA parse failed — manual review needed"
+      "Precision – accurate typing for professionals and gamers (supplier did not mention)",
+      "Quiet Operation – seamless keystrokes with minimal noise (supplier did not mention)"
     ],
     "severity": "minor",
-    "suggested_fix": "Re-run QA agent"
+    "suggested_fix": "none"
   },
   {
     "sku": "SKU028",
-    "issues": [],
-    "severity": "ok",
+    "issues": [
+      "Spec 'fast' is not mentioned in supplier description and is an invented claim"
+    ],
+    "severity": "major",
     "suggested_fix": "none"
   },
   {
     "sku": "SKU009",
-    "issues": [],
-    "severity": "ok",
-    "suggested_fix": "none"
+    "issues": [
+      "Bluetooth 5.0 – stable connection is not mentioned in the supplier description"
+    ],
+    "severity": "major",
+    "suggested_fix": "remove Bluetooth 5.0 specification"
   },
   {
     "sku": "SKU019",
     "issues": [
-      "Health claims without evidence: The product claims to 'reduce eye strain' and 'enhance your nighttime relaxation' without providing evidence or medical validation."
+      "Fits any face shape",
+      "Secure all night",
+      "Supports all sleep positions",
+      "Stays cool during sleep",
+      "Gentle on skin"
     ],
     "severity": "minor",
-    "suggested_fix": "Add evidence or clarification for health-related claims, e.g., 'Clinical studies show...' or 'Certified for eye strain reduction.'"
+    "suggested_fix": "none"
   },
   {
     "sku": "SKU011",
-    "issues": [],
-    "severity": "ok",
+    "issues": [
+      "Spec not mentioned by supplier: 'Wire Harness'"
+    ],
+    "severity": "minor",
     "suggested_fix": "none"
   },
   {
     "sku": "SKU029",
-    "issues": [],
-    "severity": "ok",
+    "issues": [
+      "Captures 99.97% Pollutants",
+      "Long-Lasting Power - Up to 10 Hours"
+    ],
+    "severity": "major",
     "suggested_fix": "none"
   },
   {
@@ -55,18 +69,14 @@
   },
   {
     "sku": "SKU021",
-    "issues": [
-      "False or exaggerated specifications: Claims of 'keeps drinks cold for 24 hours' and '12hr hot holding' lack verifiable evidence and may be overpromised"
-    ],
-    "severity": "minor",
-    "suggested_fix": "Provide third-party testing results or customer reviews to substantiate the 24hr cold and 12hr hot holding claims"
+    "issues": [],
+    "severity": "ok",
+    "suggested_fix": "none"
   },
   {
     "sku": "SKU013",
-    "issues": [
-      "QA parse failed — manual review needed"
-    ],
-    "severity": "minor",
-    "suggested_fix": "Re-run QA agent"
+    "issues": [],
+    "severity": "ok",
+    "suggested_fix": "none"
   }
 ]

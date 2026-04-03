@@ -5,7 +5,7 @@
     "quantity": 2,
     "customer_country": "AU",
     "action": "substitute",
-    "note": "SKU not in active listings. Substitute: SKU003",
+    "note": "Same category (Electronics) substitute for 'Wireless Ergonomic Mouse' — best available stock. Substitute: SKU003",
     "customer_email": "Dear Customer,\n\nRegarding your order ORD001: unfortunately item SKU001 is currently unavailable. We'd like to offer you Mechanical Keyboard TKL (SKU003) as an equivalent alternative at the same price point.\n\nPlease reply to confirm or cancel. No charge until you confirm.\n\nBest regards,\nOps Team"
   },
   {
@@ -41,7 +41,7 @@
     "quantity": 1,
     "customer_country": "AU",
     "action": "substitute",
-    "note": "SKU not in active listings. Substitute: SKU011",
+    "note": "Same category (Office) substitute for 'Mechanical Pencil Set' — best available stock. Substitute: SKU011",
     "customer_email": "Dear Customer,\n\nRegarding your order ORD005: unfortunately item SKU030 is currently unavailable. We'd like to offer you Cable Management Kit (SKU011) as an equivalent alternative at the same price point.\n\nPlease reply to confirm or cancel. No charge until you confirm.\n\nBest regards,\nOps Team"
   },
   {
@@ -50,8 +50,8 @@
     "quantity": 1,
     "customer_country": "AU",
     "action": "substitute",
-    "note": "SKU not in active listings. Substitute: SKU014",
-    "customer_email": "Dear Customer,\n\nRegarding your order ORD006: unfortunately item SKU099 is currently unavailable. We'd like to offer you Portable SSD 1TB (SKU014) as an equivalent alternative at the same price point.\n\nPlease reply to confirm or cancel. No charge until you confirm.\n\nBest regards,\nOps Team"
+    "note": "SKU SKU099 not found in catalog — offering highest-stock alternative. Substitute: SKU019",
+    "customer_email": "Dear Customer,\n\nRegarding your order ORD006: unfortunately item SKU099 is currently unavailable. We'd like to offer you Sleep Mask 3D (SKU019) as an equivalent alternative at the same price point.\n\nPlease reply to confirm or cancel. No charge until you confirm.\n\nBest regards,\nOps Team"
   },
   {
     "order_id": "ORD007",
@@ -59,7 +59,7 @@
     "quantity": 2,
     "customer_country": "GB",
     "action": "substitute",
-    "note": "SKU not in active listings. Substitute: SKU003",
+    "note": "Same category (Electronics) substitute for 'Webcam 1080p HD' — best available stock. Substitute: SKU003",
     "customer_email": "Dear Customer,\n\nRegarding your order ORD007: unfortunately item SKU005 is currently unavailable. We'd like to offer you Mechanical Keyboard TKL (SKU003) as an equivalent alternative at the same price point.\n\nPlease reply to confirm or cancel. No charge until you confirm.\n\nBest regards,\nOps Team"
   },
   {
@@ -77,7 +77,7 @@
     "quantity": 1,
     "customer_country": "US",
     "action": "substitute",
-    "note": "SKU not in active listings. Substitute: SKU003",
+    "note": "Same category (Electronics) substitute for 'USB-C Hub 7-in-1' — best available stock. Substitute: SKU003",
     "customer_email": "Dear Customer,\n\nRegarding your order ORD009: unfortunately item SKU002 is currently unavailable. We'd like to offer you Mechanical Keyboard TKL (SKU003) as an equivalent alternative at the same price point.\n\nPlease reply to confirm or cancel. No charge until you confirm.\n\nBest regards,\nOps Team"
   },
   {

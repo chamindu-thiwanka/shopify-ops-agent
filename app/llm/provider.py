@@ -145,7 +145,7 @@ class OllamaProvider(LLMProvider):
             "stream": False,        # Get complete response, not token-by-token
             "options": {
                 "temperature": 0.7, # 0 = deterministic, 1 = creative
-                "num_predict": 1000 # Max tokens to generate
+                "num_predict": 2000 # Max tokens to generate
             }
         }
         if system:

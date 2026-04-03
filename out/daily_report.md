@@ -1,4 +1,4 @@
-# Daily Ops Report — 2026-04-02
+# Daily Ops Report — 2026-04-03
 
 ## Executive Summary
 | Metric | Value |
@@ -7,7 +7,7 @@
 | Listings generated | 10 |
 | Average margin (AU) | 25.5% |
 | Total orders processed | 10 |
-| QA issues found | 0 major, 5 minor |
+| QA issues found | 4 major, 3 minor |
 
 ---
 
@@ -38,15 +38,15 @@ Best performer: **Sleep Mask 3D** at 27.1% margin.
 ### Order Details
 | Order ID | SKU | Qty | Country | Action | Note |
 |----------|-----|-----|---------|--------|------|
-| ORD001 | SKU001 | 2 | AU | SUBSTITUTE | SKU not in active listings. Substitute: SKU003 |
+| ORD001 | SKU001 | 2 | AU | SUBSTITUTE | Same category (Electronics) substitute for 'Wirele |
 | ORD002 | SKU003 | 1 | US | FULFIL | Stock OK (20 available, 1 ordered). |
 | ORD003 | SKU009 | 1 | AU | FULFIL | Stock OK (18 available, 1 ordered). |
 | ORD004 | SKU014 | 3 | AU | FULFIL | Stock OK (12 available, 3 ordered). |
-| ORD005 | SKU030 | 1 | AU | SUBSTITUTE | SKU not in active listings. Substitute: SKU011 |
-| ORD006 | SKU099 | 1 | AU | SUBSTITUTE | SKU not in active listings. Substitute: SKU014 |
-| ORD007 | SKU005 | 2 | GB | SUBSTITUTE | SKU not in active listings. Substitute: SKU003 |
+| ORD005 | SKU030 | 1 | AU | SUBSTITUTE | Same category (Office) substitute for 'Mechanical  |
+| ORD006 | SKU099 | 1 | AU | SUBSTITUTE | SKU SKU099 not found in catalog — offering highest |
+| ORD007 | SKU005 | 2 | GB | SUBSTITUTE | Same category (Electronics) substitute for 'Webcam |
 | ORD008 | SKU021 | 1 | AU | FULFIL | Stock OK (70 available, 1 ordered). |
-| ORD009 | SKU002 | 1 | US | SUBSTITUTE | SKU not in active listings. Substitute: SKU003 |
+| ORD009 | SKU002 | 1 | US | SUBSTITUTE | Same category (Electronics) substitute for 'USB-C  |
 | ORD010 | SKU028 | 5 | AU | FULFIL | Stock OK (10 available, 5 ordered). |
 
 ---
@@ -54,19 +54,28 @@ Best performer: **Sleep Mask 3D** at 27.1% margin.
 ## QA Review
 | Result | Count |
 |--------|-------|
-| Passed ✓ | 5 |
-| Minor issues | 5 |
-| Major issues ⚠️ | 0 |
+| Passed ✓ | 3 |
+| Minor issues | 3 |
+| Major issues ⚠️ | 4 |
 
-No major QA issues found.
+### Major Issues Requiring Action
+- **SKU014**: Secure - encrypted data protection
+  Fix: none
+- **SKU028**: Spec 'fast' is not mentioned in supplier description and is an invented claim
+  Fix: none
+- **SKU009**: Bluetooth 5.0 – stable connection is not mentioned in the supplier description
+  Fix: remove Bluetooth 5.0 specification
+- **SKU029**: Captures 99.97% Pollutants; Long-Lasting Power - Up to 10 Hours
+  Fix: none
 
 ---
 
 ## Stock Alerts
-The following 2 products need reordering:
+The following 3 products need reordering:
 - **SKU014** (Portable SSD 1TB): 12 units remaining
 - **SKU028** (Document Scanner Portable): 10 units remaining
+- **SKU013** (Standing Desk Mat): 15 units remaining
 
 ---
 
-*Report generated automatically by Shopify Ops Agent on 2026-04-02.*
+*Report generated automatically by Shopify Ops Agent on 2026-04-03.*
