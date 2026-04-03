@@ -75,7 +75,7 @@ def run(selected_products: list[dict], out_dir: str) -> tuple[list[dict], list[d
             'name': product['name'],
             'available_stock': product['stock'],
             'reorder_threshold': 15,
-            'needs_reorder': product['stock'] < 15,
+            'needs_reorder': product['stock'] <= 15,
             'days_of_supply': product['stock']  # simplified: assume 1 sale/day
         })
 
