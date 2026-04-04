@@ -20,6 +20,9 @@ import os
 from app.llm.provider import get_provider
 from app.agents import sourcing, listing, pricing, order_routing, qa, reporter
 
+#shpyfy api
+from app import shopify_sync
+
 
 def save_json(data: list | dict, path: str):
     """Save data as pretty-printed JSON with UTF-8 encoding."""
@@ -77,6 +80,22 @@ def run(catalog_path: str, orders_path: str, out_dir: str):
     # ── Step 6: Daily Report ─────────────────────────────────────
     print("\n[Step 6/6] Reporter Agent")
     reporter.run(selected_products, listings, prices, stocks, order_actions, redlines, out_dir)
+
+    
+    # ── Shopify Sync (Extra Credit) ──────────────────────────────
+    # Only runs if SHOPIFY_ACCESS_TOKEN is set in .env
+    # If credentials are missing, this step is skipped gracefully
+    # and the rest of the pipeline output is unaffected.
+    if os.getenv("SHOPIFY_ACCESS_TOKEN"):
+        print("\n[Step 7/7] Shopify Sync")
+        sync_results = shopify_sync.run(
+            selected_products, listings, prices, stocks
+        )
+        # Add sync results to report
+        print(f"  [Manager] Shopify sync: {sync_results}")
+    else:
+        print("\n[Shopify] No credentials found in .env — skipping live sync.")
+        print("          Add SHOPIFY_SHOP_URL and SHOPIFY_ACCESS_TOKEN to enable.")
 
     print("\n" + "=" * 60)
     print(f"  PIPELINE COMPLETE. All outputs in: {out_dir}/")
