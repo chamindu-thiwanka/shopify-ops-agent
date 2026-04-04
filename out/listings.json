@@ -1,252 +1,252 @@
 [
   {
     "supplier_sku": "SKU014",
-    "title": "Portable SSD 1TB - Fast Storage for On-the-go",
+    "title": "Portable SSD 1TB - Fast Storage",
     "bullets": [
-      "Fast - 1050MB/s read speed",
-      "Portable - travel-friendly",
-      "1TB - ample storage",
-      "Rugged - withstand harsh conditions",
-      "Secure - encrypted data protection"
+      "portable — easy to carry anywhere",
+      "fast — 1050MB/s data transfer speed",
+      "storage — reliable 1TB capacity",
+      "rugged — built to withstand harsh conditions",
+      "secure — encrypted for safe data protection"
     ],
-    "description": "This portable SSD offers fast 1050MB/s read speed for efficient data transfer. Its rugged casing ensures durability in any environment. Perfect for travelers and professionals who need reliable storage on the go. The 1TB capacity provides ample space for documents, videos, and more. Always secure your data with encrypted protection.",
+    "description": "This rugged portable SSD offers fast 1050MB/s data transfer for seamless performance. Its compact design makes it easy to carry in your pocket or bag. The durable casing protects your data from damage. Perfect for professionals and students who need reliable storage on the go. Always have your files accessible when you need them.",
     "tags": [
       "portable",
-      "ssd",
-      "1tb",
-      "rugged",
-      "durable",
-      "secure",
       "storage",
-      "travel"
+      "rugged",
+      "fast",
+      "secure",
+      "durable",
+      "data",
+      "backup"
     ],
     "seo_title": "Portable SSD 1TB - Fast Storage",
-    "seo_description": "Fast 1050MB/s read speed, rugged casing for reliable storage on the go. 1TB capacity with encrypted data protection.",
+    "seo_description": "High-speed USB 3.2 SSD with rugged design for reliable storage and easy portability.",
     "_fallback": false
   },
   {
     "supplier_sku": "SKU003",
-    "title": "Mechanical Keyboard TKL – Blue Switches, RGB Backlight",
+    "title": "Mechanical Keyboard TKL - Blue Switches RGB Backlight",
     "bullets": [
-      "Durability – built to last with premium blue switches",
-      "Precision – accurate typing for professionals and gamers",
-      "Customizable – adjust RGB lighting to your preference",
-      "Quiet Operation – seamless keystrokes with minimal noise",
-      "Sleek Design – modern aesthetic with full-sized keys"
+      "Blue Switches — crisp and tactile feel",
+      "RGB Backlight — customizable lighting",
+      "Tenkeyless — compact and ergonomic",
+      "Sleek Design — modern aesthetic",
+      "Durable Build — long-lasting performance"
     ],
-    "description": "This mechanical keyboard offers exceptional durability and precision for everyday use. The blue switches provide reliable performance, while the RGB backlight allows for personalized lighting. Designed for productivity, it combines functionality with a sleek, modern look. Perfect for gamers and typists alike.",
+    "description": "This tenkeyless mechanical keyboard offers a sleek design with blue switches and customizable RGB backlight. Perfect for gaming and typing, it provides a comfortable and precise typing experience. The durable build ensures lasting performance and reliability.",
     "tags": [
+      "keyboard",
       "mechanical",
       "tkl",
       "blue",
       "rgb",
+      "backlight",
       "durable",
-      "precision",
-      "customizable",
-      "quiet"
+      "ergonomic"
     ],
-    "seo_title": "Mechanical Keyboard TKL – Blue Switches, RGB Backlight",
-    "seo_description": "Durable mechanical keyboard with blue switches and RGB backlight for precise typing and customizable lighting.",
+    "seo_title": "Mechanical Keyboard TKL - Blue Switches RGB Backlight",
+    "seo_description": "Stylish Mechanical Keyboard TKL with Blue Switches and RGB Backlight. Durable and Ergonomic Design. Perfect for Gaming and Typing.",
     "_fallback": false
   },
   {
     "supplier_sku": "SKU028",
-    "title": "Portable Scanner 900DPI",
+    "title": "Portable Scanner 900DPI Document Scan",
     "bullets": [
-      "Scanner — captures detailed documents",
-      "900DPI — sharp resolution for clear scans",
-      "Micro SD — store up to 256GB of data",
-      "Portable — compact and easy to carry",
-      "Fast — quick scans for work or home use"
+      "900DPI Resolution - captures clear documents",
+      "Micro SD Slot - store up to 256GB",
+      "Lightweight Design - easy to carry anywhere",
+      "Fast Scan Speed - 10 pages per minute",
+      "Durable Build - withstands daily use"
     ],
-    "description": "Our portable scanner delivers high-resolution scans for precise document capture. The 900DPI technology ensures clear images even in low light. The micro SD slot lets you store up to 256GB of data. Its compact design makes it easy to carry anywhere. Fast scanning speeds ensure you get results quickly.",
+    "description": "This portable scanner offers 900DPI resolution for clear document capture. The micro SD slot allows up to 256GB of storage. Its lightweight design makes it easy to carry. Fast scan speed ensures efficient work. The durable build is ideal for daily use.",
     "tags": [
       "portable",
-      "scanner",
+      "document scan",
       "900dpi",
       "micro sd",
-      "document",
-      "easy",
-      "compact",
-      "durable"
+      "durable",
+      "easy carry",
+      "fast scan",
+      "storage"
     ],
-    "seo_title": "Portable Scanner 900DPI",
-    "seo_description": "High-resolution scanner for quick document scanning with micro SD slot.",
+    "seo_title": "Portable Scanner 900DPI Document Scan",
+    "seo_description": "Portable 900DPI Scanner with Micro SD Slot - Easy Carry, Fast Scan, Durable Build.",
     "_fallback": false
   },
   {
     "supplier_sku": "SKU009",
-    "title": "Noise Cancelling Earbuds – 30hr Battery Life",
+    "title": "Noise Cancelling Earbuds 30hr Battery Life",
     "bullets": [
-      "Noise Cancelling – blocks out ambient sounds",
-      "30hr Battery Life – power all day",
-      "Bluetooth 5.0 – stable connection",
-      "Long续航 – portable travel companion",
-      "Portable – fits in your pocket"
+      "Noise Cancelling – immersive sound isolation",
+      "Battery Life – lasts up to 30 hours",
+      "Bluetooth – seamless connectivity",
+      "Waterproof – protected against spills",
+      "Long-Lasting – durable build"
     ],
-    "description": "Noise Cancelling Earbuds offer exceptional sound isolation with active noise cancellation, making them ideal for noisy environments. Equipped with a 30-hour total battery life, they provide long-lasting performance for music, calls, and podcasts. The compact design ensures portability, making them perfect for travelers and daily use.",
+    "description": "These noise-cancelling earbuds deliver clear audio with advanced technology. They offer up to 30 hours of battery life for uninterrupted use. The lightweight design ensures comfort during long listening sessions. Features include waterproof protection and seamless Bluetooth connectivity. Perfect for all-day listening without compromising on quality.",
     "tags": [
-      "electronics",
-      "earbuds",
-      "noise cancellation",
-      "battery life",
+      "noise-cancelling",
       "bluetooth",
+      "battery-life",
+      "waterproof",
+      "long-lasting",
       "portable",
-      "sound quality",
-      "long lasting"
+      "wireless",
+      "durable"
     ],
-    "seo_title": "Noise Cancelling Earbuds – 30hr Battery Life",
-    "seo_description": "Noise Cancelling Earbuds offer 30hr battery life, perfect for noisy environments. Clear audio, secure fit, and portable design make them ideal for daily use.",
+    "seo_title": "Noise Cancelling Earbuds 30hr Battery Life",
+    "seo_description": "Noise cancelling earbuds with 30hr battery life. Seamless Bluetooth connection. Waterproof design. Long-lasting performance. Ideal for daily use.",
     "_fallback": false
   },
   {
     "supplier_sku": "SKU019",
-    "title": "3D Sleep Mask Contoured",
+    "title": "3D Sleep Mask Comfortable",
     "bullets": [
-      "Contoured 3D - fits any face shape",
-      "Adjustable straps - secure all night",
-      "Memory foam - supports all sleep positions",
-      "Breathable material - stays cool during sleep",
-      "Soft texture - gentle on skin"
+      "Contoured 3D — fits any sleeping position",
+      "Adjustable strap — customizable for comfort",
+      "Memory foam — molds to your face",
+      "Nighttime use — promotes relaxation",
+      "Sleep soundly — improves quality"
     ],
-    "description": "Contoured 3D sleep mask offers comfortable fit and support for all sleep positions. Breathable material keeps you cool, while soft texture ensures gentle sleep. Perfect for any face shape.",
+    "description": "Crafted for comfort, this contoured 3D sleep mask fits any sleeping position. The adjustable strap ensures a secure fit, while memory foam molds to your face for a cozy, restful sleep. Designed for nighttime use, it promotes relaxation and enhances your sleep quality. Made from high-quality materials, it's a must-have for anyone seeking a peaceful night's rest.",
     "tags": [
-      "sleep mask",
-      "contoured",
-      "adjustable",
-      "memory foam",
-      "breathable",
-      "soft",
+      "health",
+      "sleep",
+      "mask",
       "comfort",
-      "sleeping"
+      "foam",
+      "night",
+      "adjustable",
+      "contoured"
     ],
-    "seo_title": "3D Sleep Mask Contoured",
-    "seo_description": "Contoured 3D sleep mask offers comfortable fit and support for all sleep positions. Breathable material keeps you cool, while soft texture ensures gentle sleep. Perfect for any face shape.",
+    "seo_title": "3D Sleep Mask Comfortable",
+    "seo_description": "Contoured 3D sleep mask with adjustable strap and memory foam for comfortable nighttime use.",
     "_fallback": false
   },
   {
     "supplier_sku": "SKU011",
-    "title": "Cable Management Kit - Organize Your Cables",
+    "title": "Cable Management Kit - Office Organizers",
     "bullets": [
-      "Cable Management - Keeps wires tidy",
-      "Wire Harness - Securely ties cables together",
-      "Clips & Sleeves - Organizes neatly in drawers",
-      "Storage Solutions - Saves space in workstations",
-      "Accessories - Includes all essentials for cable management"
+      "Cable Management - Keeps wires organized",
+      "Clips & Ties - Secure connections for all cables",
+      "Sleeves & Channels - Stylized cable storage",
+      "50-Piece Kit - Universal for desktop & office use",
+      "Easy to Install - Saves space and improves workflow"
     ],
-    "description": "This 50-piece cable management kit is designed to keep your cables organized and clutter-free. With clips, ties, and sleeves, it offers easy installation and maintenance. Perfect for offices, homes, or anywhere you need a tidy cable setup. Affordable and practical, it's a must-have for any workspace.",
+    "description": "Effortless cable organization with 50-piece kit including clips, ties, and sleeves for office use. Designed for hassle-free management of all your cables. Perfect for small businesses and home offices.",
     "tags": [
-      "cable management",
-      "organize",
-      "wire harness",
-      "storage",
+      "wire management",
+      "office organizers",
+      "cable sleeves",
       "clips",
       "ties",
       "sleeves",
-      "accessories"
+      "organizing",
+      "storage"
     ],
-    "seo_title": "Cable Management Kit - Organize Your Cables",
-    "seo_description": "Effortless cable organization with 50 pieces, clips, ties, and sleeves for clean, tidy setups.",
+    "seo_title": "Cable Management Kit - Office Organizers",
+    "seo_description": "Effortless cable organization with 50-piece kit including clips, ties, and sleeves for office use.",
     "_fallback": false
   },
   {
     "supplier_sku": "SKU029",
-    "title": "Air Purifier Mini - Eco Clean Air",
+    "title": "Air Purifier Mini 3-Stage HEPA",
     "bullets": [
-      "Air Purifier - Efficient Air Cleaning",
-      "3-stage Filtration - Captures 99.97% Pollutants",
-      "Night Mode - Quiet Operation for Comfort",
-      "Eco-Friendly Design - Low Power Consumption",
-      "Long-Lasting Power - Up to 10 Hours"
+      "3-Stage HEPA Filter — captures 99.97% of airborne particles",
+      "Night Mode — adjusts settings for sleep",
+      "Efficient — works quietly without noise",
+      "Quiet Operation — minimal disturbance",
+      "Durable — built to last"
     ],
-    "description": "This compact air purifier effectively filters out dust, pollen, and other airborne particles. The 3-stage filtration system ensures thorough cleaning, while the night mode reduces noise for peaceful sleep. Its energy-efficient design keeps power bills low. Ideal for small spaces, it provides clean air without compromising on performance.",
+    "description": "This compact air purifier effectively removes dust, pollen, and other airborne particles. Its 3-stage filtration system ensures clean air for your space. The night mode feature adapts to your sleeping habits for optimal comfort. Designed for quiet operation, it blends seamlessly into your environment. Built to last, it offers reliable performance over time.",
     "tags": [
       "air purifier",
-      "hepa",
-      "3-stage",
-      "night mode",
-      "eco-friendly",
+      "hepa filter",
       "quiet",
-      "filter efficiency",
-      "easy to use"
+      "durable",
+      "night mode",
+      "efficiency",
+      "durable",
+      "sleep mode"
     ],
-    "seo_title": "Air Purifier Mini Eco Clean",
-    "seo_description": "Efficient Air Purification with 3-stage Filtration, Night Mode for Comfort, Eco-Friendly Design. Quiet Operation, Long-Lasting Power. Ideal for Home Use.",
+    "seo_title": "Air Purifier Mini 3-Stage HEPA",
+    "seo_description": "Efficient 3-Stage HEPA Air Purifier with Night Mode, Quiet Operation, Durable Design.",
     "_fallback": false
   },
   {
     "supplier_sku": "SKU004",
-    "title": "Adjustable Laptop Stand – Foldable Office Tool",
+    "title": "Adjustable Laptop Stand - Office Essential",
     "bullets": [
-      "Adjustable – offers height customization",
-      "Foldable – easy to carry and store",
-      "6 Levels – perfect for different desk heights",
-      "Office – perfect for work and study",
-      "Portable – fits in any bag or desk"
+      "Adjustable - Perfect for various desk heights",
+      "6 Levels - Easy to adjust to your needs",
+      "Foldable - Saves space when not in use",
+      "Office Use - Ideal for work and study",
+      "Durable - Made from high-quality aluminum"
     ],
-    "description": "Durable aluminum laptop stand with 6 height levels and foldable design. Perfect for work and study. Easy to carry and store.",
+    "description": "This adjustable laptop stand is designed for everyday use. The 6 height levels allow you to customize your workspace for different tasks. The foldable design makes it easy to store and transport. Perfect for office use and study. The sturdy aluminum construction ensures long-lasting performance.",
     "tags": [
-      "laptop stand",
       "adjustable",
-      "foldable",
+      "laptop",
+      "stand",
       "office",
-      "portable",
+      "foldable",
+      "aluminum",
       "durable",
-      "ergonomic",
-      "desk accessory"
+      "space-saving"
     ],
-    "seo_title": "Adjustable Laptop Stand – Foldable Office Tool",
-    "seo_description": "Durable aluminum laptop stand with 6 height levels and foldable design. Perfect for work and study. Easy to carry and store.",
+    "seo_title": "Adjustable Laptop Stand - Office Essential",
+    "seo_description": "Adjustable laptop stand with 6 height levels and foldable design for office use. Durable aluminum construction, easy to adjust to fit your desk.",
     "_fallback": false
   },
   {
     "supplier_sku": "SKU021",
-    "title": "1L Insulated Water Bottle",
+    "title": "Insulated 1L Water Bottle",
     "bullets": [
-      "Insulation — keeps cold 24 hours",
-      "Durability — withstands daily use",
-      "Capacity — 1L for all your needs",
-      "Lightweight — easy to carry around",
-      "Insulated — stays hot for 12 hours"
+      "Insulated — keeps drinks cold 24h",
+      "Double-Wall — maintains temperature for 12h",
+      "Lightweight — easy to carry",
+      "Durable — built to last",
+      "Portable — perfect for on-the-go"
     ],
-    "description": "This 1L insulated water bottle is designed for everyday use. It keeps drinks cold for 24 hours and hot for 12 hours. The double-wall vacuum insulation ensures your beverage stays fresh and delicious. Perfect for travelers and gym enthusiasts. The durable material is built to last. Choose the right size for your needs.",
+    "description": "This insulated 1L water bottle keeps drinks cold for 24 hours and hot for 12 hours. Durable and portable, it's designed for travelers and everyday use. The double-wall vacuum insulation ensures long-lasting performance. Perfect for staying hydrated on the go.",
     "tags": [
       "insulated",
       "1l",
       "durable",
       "portable",
-      "long-lasting",
       "vacuum",
+      "stainless",
       "cold",
       "heat"
     ],
-    "seo_title": "1L Insulated Water Bottle",
-    "seo_description": "1L insulated water bottle keeps cold 24h, hot 12h. Durable, portable, long-lasting. Perfect for daily use.",
+    "seo_title": "Insulated 1L Water Bottle",
+    "seo_description": "Insulated 1L Water Bottle keeps drinks cold 24h and hot 12h. Durable and portable, perfect for travel. Double-wall vacuum insulation ensures long-lasting performance.",
     "_fallback": false
   },
   {
     "supplier_sku": "SKU013",
-    "title": "Standing Desk Mat – Anti-Fatigue Non-Slip Mat",
+    "title": "Standing Desk Mat Anti-Fatigue Non-Slip Base",
     "bullets": [
-      "Anti-Fatigue – Reduces fatigue while standing",
-      "Bevelled Edges – Safe and smooth edges",
-      "Non-Slip Base – Keeps your desk stable",
-      "Ergonomic Design – Comfortable for long periods",
-      "Durable Material – Lasts longer"
+      "Anti-Fatigue - Reduces fatigue and improves posture",
+      "Non-Slip - Provides stable surface for all-day use",
+      "Bevelled Edges - Safe and easy to clean",
+      "Ergonomic Design - Fits most desk sizes",
+      "Comfortable - Offers all-day support without pressure points"
     ],
-    "description": "This anti-fatigue standing desk mat is designed for comfort and safety. The bevelled edges prevent tripping, and the non-slip base keeps your desk secure. It’s made from durable material that withstands daily use. Ideal for office environments.",
+    "description": "This anti-fatigue standing desk mat is designed for comfort and stability. The non-slip base ensures secure placement, while the bevelled edges prevent slipping. The ergonomic design fits most desk sizes and offers all-day support. Easy to clean and durable, it's perfect for office use.",
     "tags": [
-      "office",
-      "desk",
-      "mat",
-      "non-slip",
       "anti-fatigue",
+      "non-slip",
+      "bevelled",
       "ergonomic",
+      "comfort",
+      "clean",
       "durable",
-      "comfortable"
+      "office"
     ],
-    "seo_title": "Standing Desk Mat – Anti-Fatigue Mat",
-    "seo_description": "Anti-fatigue standing desk mat with bevelled edges and non-slip base for safe, comfortable use.",
+    "seo_title": "Standing Desk Mat Anti-Fatigue Non-Slip Base",
+    "seo_description": "Anti-fatigue standing desk mat with non-slip base and bevelled edges for comfort and stability. Ergonomic design fits most desks. Durable and easy to clean.",
     "_fallback": false
   }
 ]

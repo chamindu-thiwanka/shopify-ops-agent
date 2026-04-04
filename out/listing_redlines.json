@@ -2,7 +2,7 @@
   {
     "sku": "SKU014",
     "issues": [
-      "Secure - encrypted data protection"
+      "claim about 'secure' without evidence"
     ],
     "severity": "major",
     "suggested_fix": "none"
@@ -10,36 +10,34 @@
   {
     "sku": "SKU003",
     "issues": [
-      "Precision – accurate typing for professionals and gamers (supplier did not mention)",
-      "Quiet Operation – seamless keystrokes with minimal noise (supplier did not mention)"
+      "crisp and tactile feel",
+      "customizable lighting"
     ],
     "severity": "minor",
     "suggested_fix": "none"
   },
   {
     "sku": "SKU028",
-    "issues": [
-      "Spec 'fast' is not mentioned in supplier description and is an invented claim"
-    ],
-    "severity": "major",
+    "issues": [],
+    "severity": "ok",
     "suggested_fix": "none"
   },
   {
     "sku": "SKU009",
     "issues": [
-      "Bluetooth 5.0 – stable connection is not mentioned in the supplier description"
+      "immersive sound isolation",
+      "seamless connectivity",
+      "Long-Lasting – durable build"
     ],
     "severity": "major",
-    "suggested_fix": "remove Bluetooth 5.0 specification"
+    "suggested_fix": "none"
   },
   {
     "sku": "SKU019",
     "issues": [
-      "Fits any face shape",
-      "Secure all night",
-      "Supports all sleep positions",
-      "Stays cool during sleep",
-      "Gentle on skin"
+      "Comfortable in title",
+      "promotes relaxation in bullet point",
+      "improves quality in bullet point"
     ],
     "severity": "minor",
     "suggested_fix": "none"
@@ -47,18 +45,19 @@
   {
     "sku": "SKU011",
     "issues": [
-      "Spec not mentioned by supplier: 'Wire Harness'"
+      "Universal for desktop & office use",
+      "Stylized cable storage",
+      "Easy to Install - Saves space and improves workflow"
     ],
-    "severity": "minor",
+    "severity": "major",
     "suggested_fix": "none"
   },
   {
     "sku": "SKU029",
     "issues": [
-      "Captures 99.97% Pollutants",
-      "Long-Lasting Power - Up to 10 Hours"
+      "Title: 'Mini' is not mentioned in the supplier description."
     ],
-    "severity": "major",
+    "severity": "minor",
     "suggested_fix": "none"
   },
   {
@@ -75,8 +74,11 @@
   },
   {
     "sku": "SKU013",
-    "issues": [],
-    "severity": "ok",
+    "issues": [
+      "Spec not mentioned by supplier: 'Fits most desk sizes'",
+      "Spec not mentioned by supplier: 'Offers all-day support without pressure points'"
+    ],
+    "severity": "major",
     "suggested_fix": "none"
   }
 ]

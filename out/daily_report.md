@@ -1,4 +1,4 @@
-# Daily Ops Report — 2026-04-03
+# Daily Ops Report — 2026-04-04
 
 ## Executive Summary
 | Metric | Value |
@@ -38,15 +38,15 @@ Best performer: **Sleep Mask 3D** at 27.1% margin.
 ### Order Details
 | Order ID | SKU | Qty | Country | Action | Note |
 |----------|-----|-----|---------|--------|------|
-| ORD001 | SKU001 | 2 | AU | SUBSTITUTE | Same category (Electronics) substitute for 'Wirele |
+| ORD001 | SKU001 | 2 | AU | SUBSTITUTE | Same category (Electronics) substitute for 'Wireless Ergonomic Mouse' — best ava |
 | ORD002 | SKU003 | 1 | US | FULFIL | Stock OK (20 available, 1 ordered). |
 | ORD003 | SKU009 | 1 | AU | FULFIL | Stock OK (18 available, 1 ordered). |
 | ORD004 | SKU014 | 3 | AU | FULFIL | Stock OK (12 available, 3 ordered). |
-| ORD005 | SKU030 | 1 | AU | SUBSTITUTE | Same category (Office) substitute for 'Mechanical  |
-| ORD006 | SKU099 | 1 | AU | SUBSTITUTE | SKU SKU099 not found in catalog — offering highest |
-| ORD007 | SKU005 | 2 | GB | SUBSTITUTE | Same category (Electronics) substitute for 'Webcam |
+| ORD005 | SKU030 | 1 | AU | SUBSTITUTE | Same category (Office) substitute for 'Mechanical Pencil Set' — best available s |
+| ORD006 | SKU099 | 1 | AU | SUBSTITUTE | SKU SKU099 not found in catalog — offering highest-stock alternative. Substitute |
+| ORD007 | SKU005 | 2 | GB | SUBSTITUTE | Same category (Electronics) substitute for 'Webcam 1080p HD' — best available st |
 | ORD008 | SKU021 | 1 | AU | FULFIL | Stock OK (70 available, 1 ordered). |
-| ORD009 | SKU002 | 1 | US | SUBSTITUTE | Same category (Electronics) substitute for 'USB-C  |
+| ORD009 | SKU002 | 1 | US | SUBSTITUTE | Same category (Electronics) substitute for 'USB-C Hub 7-in-1' — best available s |
 | ORD010 | SKU028 | 5 | AU | FULFIL | Stock OK (10 available, 5 ordered). |
 
 ---
@@ -59,13 +59,13 @@ Best performer: **Sleep Mask 3D** at 27.1% margin.
 | Major issues ⚠️ | 4 |
 
 ### Major Issues Requiring Action
-- **SKU014**: Secure - encrypted data protection
+- **SKU014**: claim about 'secure' without evidence
   Fix: none
-- **SKU028**: Spec 'fast' is not mentioned in supplier description and is an invented claim
+- **SKU009**: immersive sound isolation; seamless connectivity
   Fix: none
-- **SKU009**: Bluetooth 5.0 – stable connection is not mentioned in the supplier description
-  Fix: remove Bluetooth 5.0 specification
-- **SKU029**: Captures 99.97% Pollutants; Long-Lasting Power - Up to 10 Hours
+- **SKU011**: Universal for desktop & office use; Stylized cable storage
+  Fix: none
+- **SKU013**: Spec not mentioned by supplier: 'Fits most desk sizes'; Spec not mentioned by supplier: 'Offers all-day support without pressure points'
   Fix: none
 
 ---
@@ -78,4 +78,16 @@ The following 3 products need reordering:
 
 ---
 
-*Report generated automatically by Shopify Ops Agent on 2026-04-03.*
+## Shopify Sync
+Products were pushed live to the Shopify store automatically.
+
+| Action | Count |
+|--------|-------|
+| Products created ✓ | 10 |
+| Products updated ↻ | 0 |
+| Failed ✗ | 0 |
+
+
+---
+
+*Report generated automatically by Shopify Ops Agent on 2026-04-04.*
