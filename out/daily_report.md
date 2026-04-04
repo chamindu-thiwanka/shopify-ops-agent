@@ -7,7 +7,7 @@
 | Listings generated | 10 |
 | Average margin (AU) | 25.5% |
 | Total orders processed | 10 |
-| QA issues found | 4 major, 3 minor |
+| QA issues found | 3 major, 1 minor |
 
 ---
 
@@ -54,18 +54,16 @@ Best performer: **Sleep Mask 3D** at 27.1% margin.
 ## QA Review
 | Result | Count |
 |--------|-------|
-| Passed ✓ | 3 |
-| Minor issues | 3 |
-| Major issues ⚠️ | 4 |
+| Passed ✓ | 6 |
+| Minor issues | 1 |
+| Major issues ⚠️ | 3 |
 
 ### Major Issues Requiring Action
-- **SKU014**: claim about 'secure' without evidence
+- **SKU003**: ultra-responsive; vibrant
   Fix: none
-- **SKU009**: immersive sound isolation; seamless connectivity
+- **SKU009**: Long-Lasting — lasts up to 30 hours is a superlative not supported by the supplier
   Fix: none
-- **SKU011**: Universal for desktop & office use; Stylized cable storage
-  Fix: none
-- **SKU013**: Spec not mentioned by supplier: 'Fits most desk sizes'; Spec not mentioned by supplier: 'Offers all-day support without pressure points'
+- **SKU011**: Wireless Connectivity – Keeps cables in place; Space-Saving – Saves desk space
   Fix: none
 
 ---
@@ -83,8 +81,8 @@ Products were pushed live to the Shopify store automatically.
 
 | Action | Count |
 |--------|-------|
-| Products created ✓ | 10 |
-| Products updated ↻ | 0 |
+| Products created ✓ | 0 |
+| Products updated ↻ | 10 |
 | Failed ✗ | 0 |
 
 

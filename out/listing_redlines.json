@@ -1,19 +1,21 @@
 [
   {
     "sku": "SKU014",
-    "issues": [
-      "claim about 'secure' without evidence"
-    ],
-    "severity": "major",
+    "issues": [],
+    "severity": "ok",
     "suggested_fix": "none"
   },
   {
     "sku": "SKU003",
     "issues": [
-      "crisp and tactile feel",
-      "customizable lighting"
+      "ultra-responsive",
+      "vibrant",
+      "durable",
+      "long life",
+      "customizable lighting for any room",
+      "ergonomic and comfortable"
     ],
-    "severity": "minor",
+    "severity": "major",
     "suggested_fix": "none"
   },
   {
@@ -25,9 +27,7 @@
   {
     "sku": "SKU009",
     "issues": [
-      "immersive sound isolation",
-      "seamless connectivity",
-      "Long-Lasting – durable build"
+      "Long-Lasting — lasts up to 30 hours is a superlative not supported by the supplier"
     ],
     "severity": "major",
     "suggested_fix": "none"
@@ -35,9 +35,7 @@
   {
     "sku": "SKU019",
     "issues": [
-      "Comfortable in title",
-      "promotes relaxation in bullet point",
-      "improves quality in bullet point"
+      "supportive structure for all head shapes"
     ],
     "severity": "minor",
     "suggested_fix": "none"
@@ -45,19 +43,16 @@
   {
     "sku": "SKU011",
     "issues": [
-      "Universal for desktop & office use",
-      "Stylized cable storage",
-      "Easy to Install - Saves space and improves workflow"
+      "Wireless Connectivity – Keeps cables in place",
+      "Space-Saving – Saves desk space"
     ],
     "severity": "major",
     "suggested_fix": "none"
   },
   {
     "sku": "SKU029",
-    "issues": [
-      "Title: 'Mini' is not mentioned in the supplier description."
-    ],
-    "severity": "minor",
+    "issues": [],
+    "severity": "ok",
     "suggested_fix": "none"
   },
   {
@@ -74,11 +69,8 @@
   },
   {
     "sku": "SKU013",
-    "issues": [
-      "Spec not mentioned by supplier: 'Fits most desk sizes'",
-      "Spec not mentioned by supplier: 'Offers all-day support without pressure points'"
-    ],
-    "severity": "major",
+    "issues": [],
+    "severity": "ok",
     "suggested_fix": "none"
   }
 ]
