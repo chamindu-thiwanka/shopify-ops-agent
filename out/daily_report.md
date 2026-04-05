@@ -1,4 +1,4 @@
-# Daily Ops Report — 2026-04-04
+# Daily Ops Report — 2026-04-05
 
 ## Executive Summary
 | Metric | Value |
@@ -7,7 +7,7 @@
 | Listings generated | 10 |
 | Average margin (AU) | 25.5% |
 | Total orders processed | 10 |
-| QA issues found | 3 major, 1 minor |
+| QA issues found | 1 major, 3 minor |
 
 ---
 
@@ -55,15 +55,11 @@ Best performer: **Sleep Mask 3D** at 27.1% margin.
 | Result | Count |
 |--------|-------|
 | Passed ✓ | 6 |
-| Minor issues | 1 |
-| Major issues ⚠️ | 3 |
+| Minor issues | 3 |
+| Major issues ⚠️ | 1 |
 
 ### Major Issues Requiring Action
-- **SKU003**: ultra-responsive; vibrant
-  Fix: none
-- **SKU009**: Long-Lasting — lasts up to 30 hours is a superlative not supported by the supplier
-  Fix: none
-- **SKU011**: Wireless Connectivity – Keeps cables in place; Space-Saving – Saves desk space
+- **SKU011**: effortless - simple to install and use is not mentioned in the supplier description
   Fix: none
 
 ---
@@ -81,11 +77,11 @@ Products were pushed live to the Shopify store automatically.
 
 | Action | Count |
 |--------|-------|
-| Products created ✓ | 0 |
-| Products updated ↻ | 10 |
+| Products created ✓ | 10 |
+| Products updated ↻ | 0 |
 | Failed ✗ | 0 |
 
 
 ---
 
-*Report generated automatically by Shopify Ops Agent on 2026-04-04.*
+*Report generated automatically by Shopify Ops Agent on 2026-04-05.*

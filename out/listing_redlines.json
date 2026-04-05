@@ -8,51 +8,46 @@
   {
     "sku": "SKU003",
     "issues": [
-      "ultra-responsive",
-      "vibrant",
-      "durable",
-      "long life",
-      "customizable lighting for any room",
-      "ergonomic and comfortable"
-    ],
-    "severity": "major",
-    "suggested_fix": "none"
-  },
-  {
-    "sku": "SKU028",
-    "issues": [],
-    "severity": "ok",
-    "suggested_fix": "none"
-  },
-  {
-    "sku": "SKU009",
-    "issues": [
-      "Long-Lasting — lasts up to 30 hours is a superlative not supported by the supplier"
-    ],
-    "severity": "major",
-    "suggested_fix": "none"
-  },
-  {
-    "sku": "SKU019",
-    "issues": [
-      "supportive structure for all head shapes"
+      "Silent Operation",
+      "Customizable lighting"
     ],
     "severity": "minor",
     "suggested_fix": "none"
   },
   {
+    "sku": "SKU028",
+    "issues": [
+      "QuickScan — scan documents in minutes is not mentioned in the supplier's description"
+    ],
+    "severity": "minor",
+    "suggested_fix": "none"
+  },
+  {
+    "sku": "SKU009",
+    "issues": [],
+    "severity": "ok",
+    "suggested_fix": "none"
+  },
+  {
+    "sku": "SKU019",
+    "issues": [],
+    "severity": "ok",
+    "suggested_fix": "none"
+  },
+  {
     "sku": "SKU011",
     "issues": [
-      "Wireless Connectivity – Keeps cables in place",
-      "Space-Saving – Saves desk space"
+      "effortless - simple to install and use is not mentioned in the supplier description"
     ],
     "severity": "major",
     "suggested_fix": "none"
   },
   {
     "sku": "SKU029",
-    "issues": [],
-    "severity": "ok",
+    "issues": [
+      "The claim 'captures 99.97% of airborne particles' exceeds the verified fact that the purifier uses 3-stage filtration (HEPA, activated carbon, electrostatic) without specific superlative claims"
+    ],
+    "severity": "minor",
     "suggested_fix": "none"
   },
   {
