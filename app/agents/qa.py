@@ -34,8 +34,7 @@ SYSTEM_PROMPT = """You are a strict QA reviewer for e-commerce product listings.
 Find over-claims, false specs, unverifiable superlatives, health claims without proof.
 Return ONLY valid JSON. No markdown. No explanation. No preamble."""
 
-# FIX v2: Supplier description included as verified source of truth.
-# Prevents false positives where the model flags specs that came from the supplier.
+
 QA_TEMPLATE = """Review this Shopify listing for SKU {supplier_sku}.
 
 VERIFIED FACTS (from supplier — these are confirmed, do NOT flag them):

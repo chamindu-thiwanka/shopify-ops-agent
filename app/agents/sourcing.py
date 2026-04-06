@@ -101,7 +101,6 @@ def run(catalog_path: str) -> list[dict]:
     )
     
     # Filter: only keep products where 25% margin is achievable
-    # (With our formula this is always true, but we verify for correctness)
     df_filtered = df_filtered[df_filtered['margin_at_min_price'] >= 25.0]
     print(f"  [Sourcing] {len(df_filtered)} products pass the 25% margin requirement.")
     

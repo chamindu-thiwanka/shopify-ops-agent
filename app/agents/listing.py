@@ -26,7 +26,7 @@ dropshipping stores. You write compelling, accurate, SEO-optimised product listi
 CRITICAL: Return ONLY valid JSON. No markdown fences. No explanation. No preamble.
 The JSON must be parseable by Python's json.loads() directly."""
 
-# FIX: Updated template with stricter bullet formatting rules and claim restrictions
+
 LISTING_TEMPLATE = """Write a complete Shopify product listing for this product.
 
 PRODUCT DETAILS:

@@ -39,8 +39,10 @@ def run(catalog_path: str, orders_path: str, out_dir: str):
     print("=" * 60)
 
     print("\n[Setup] Initialising LLM providers...")
+
     # listing_llm = get_provider("ollama_qwen3")
     # qa_llm      = get_provider("ollama_qwen3")
+
     listing_llm = get_provider("ollama_llama3")
     qa_llm      = get_provider("ollama_mistral")
 
@@ -69,19 +71,9 @@ def run(catalog_path: str, orders_path: str, out_dir: str):
     save_json(redlines, f"{out_dir}/listing_redlines.json")
 
     # ── Step 6: Daily Report ─────────────────────────────────────
-    # WHY REPORTER RUNS BEFORE SHOPIFY:
-    #   The report always gets written even if Shopify fails.
-    #   This way you always have a record of what the pipeline decided,
-    #   regardless of whether the live sync succeeded.
     print("\n[Step 6/7] Reporter Agent")
 
     # ── Step 7: Shopify Sync ─────────────────────────────────────
-    # WHY WE CHECK FOR THE TOKEN:
-    #   If someone runs the pipeline without Shopify credentials,
-    #   it still works perfectly — it just skips the sync step.
-    #   This makes the pipeline useful in two modes:
-    #     - Simulation mode (no .env Shopify credentials) → files only
-    #     - Live mode (credentials present) → files + Shopify store updated
     sync_results = None
     if os.getenv("SHOPIFY_ACCESS_TOKEN"):
         print("\n[Step 7/7] Shopify Sync")
