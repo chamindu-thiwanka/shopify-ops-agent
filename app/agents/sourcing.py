@@ -54,7 +54,6 @@ def calculate_min_price(cost_price: float, shipping_cost: float) -> float:
     min_price = fixed_costs / denominator
     
     # Round up to nearest $0.50 using ceiling math
-    # e.g. $21.32 → $21.50, $21.51 → $22.00
     return math.ceil(min_price * 2) / 2
 
 
