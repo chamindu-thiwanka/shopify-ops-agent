@@ -39,8 +39,10 @@ def run(catalog_path: str, orders_path: str, out_dir: str):
     print("=" * 60)
 
     print("\n[Setup] Initialising LLM providers...")
-    listing_llm = get_provider("ollama_qwen3")
-    qa_llm      = get_provider("ollama_qwen3")
+    # listing_llm = get_provider("ollama_qwen3")
+    # qa_llm      = get_provider("ollama_qwen3")
+    listing_llm = get_provider("ollama_llama3")
+    qa_llm      = get_provider("ollama_mistral")
 
     # ── Step 1: Product Sourcing ─────────────────────────────────
     print("\n[Step 1/7] Product Sourcing Agent")

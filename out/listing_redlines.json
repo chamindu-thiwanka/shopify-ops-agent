@@ -1,71 +1,80 @@
 [
   {
     "sku": "SKU014",
-    "issues": [],
-    "severity": "ok",
-    "suggested_fix": "none"
+    "issues": [
+      "Fast Storage Needs"
+    ],
+    "severity": "minor",
+    "suggested_fix": "Revise the title to a more accurate description, such as 'Portable SSD with Up to 1050MB/s Read Speed'"
   },
   {
     "sku": "SKU003",
     "issues": [
-      "Silent Operation",
-      "Customizable lighting"
+      "Ergonomic — designed for comfortable typing"
     ],
     "severity": "minor",
-    "suggested_fix": "none"
+    "suggested_fix": "Remove the claim 'designed for comfortable typing' as it is not explicitly stated in the verified facts provided by the supplier"
   },
   {
     "sku": "SKU028",
-    "issues": [
-      "QuickScan — scan documents in minutes is not mentioned in the supplier's description"
-    ],
-    "severity": "minor",
+    "issues": [],
+    "severity": "ok",
     "suggested_fix": "none"
   },
   {
     "sku": "SKU009",
-    "issues": [],
-    "severity": "ok",
-    "suggested_fix": "none"
+    "issues": [
+      "Long Listen Sessions"
+    ],
+    "severity": "minor",
+    "suggested_fix": "Consider revising the title to a more accurate and specific description of the product's features, such as 'Active Noise Cancelling Earbuds with 30-hour Battery Life'"
   },
   {
     "sku": "SKU019",
-    "issues": [],
-    "severity": "ok",
-    "suggested_fix": "none"
+    "issues": [
+      "Fallback listing — needs human review"
+    ],
+    "severity": "major",
+    "suggested_fix": "Rewrite manually or re-run pipeline"
   },
   {
     "sku": "SKU011",
     "issues": [
-      "effortless - simple to install and use is not mentioned in the supplier description"
+      "Fallback listing — needs human review"
     ],
     "severity": "major",
-    "suggested_fix": "none"
+    "suggested_fix": "Rewrite manually or re-run pipeline"
   },
   {
     "sku": "SKU029",
     "issues": [
-      "The claim 'captures 99.97% of airborne particles' exceeds the verified fact that the purifier uses 3-stage filtration (HEPA, activated carbon, electrostatic) without specific superlative claims"
+      "QA parse failed — manual review needed"
     ],
     "severity": "minor",
-    "suggested_fix": "none"
+    "suggested_fix": "Re-run QA agent"
   },
   {
     "sku": "SKU004",
-    "issues": [],
-    "severity": "ok",
-    "suggested_fix": "none"
+    "issues": [
+      "Ergonomic Workstation"
+    ],
+    "severity": "minor",
+    "suggested_fix": "Revise to 'Adjustable Laptop Stand' or similar"
   },
   {
     "sku": "SKU021",
-    "issues": [],
-    "severity": "ok",
-    "suggested_fix": "none"
+    "issues": [
+      "Keep drinks cold — keeps liquids at the perfect temperature for up to 24 hours"
+    ],
+    "severity": "minor",
+    "suggested_fix": "Revise bullet point to reflect the verified fact: 'Keeps drinks cold for up to 24 hours'"
   },
   {
     "sku": "SKU013",
-    "issues": [],
-    "severity": "ok",
-    "suggested_fix": "none"
+    "issues": [
+      "ergoNOMICS — designed for comfortable standing"
+    ],
+    "severity": "minor",
+    "suggested_fix": "revise to 'Ergonomics — designed for comfort during standing'"
   }
 ]
